@@ -9,4 +9,4 @@
 
 Полную версию презентации можно посмотреть тут: https://github.com/sonyasorokolet/project/blob/master/Анализ%20употребления%20неологизмов%20в%20поэзии%20В.pptx
 
-Страничка проекта: # lbelokurova111.github.io
+# lbelokurova111.github.io
